@@ -30,3 +30,4 @@ public class diemSinhVien {
         System.out.printf("Numbers of student with enought poin is : " + count);
     }
 }
+
